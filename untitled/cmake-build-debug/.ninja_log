@@ -1,0 +1,10 @@
+# ninja log v5
+8	146	7295224820880797	eksamen_software_autogen/timestamp	64eef3494a8c395f
+2423	2716	7295223703728967	eksamen_software.exe	b1c9c5200c03255
+6	610	7295227709082812	build.ninja	eb3827a1b12f923c
+8	146	7295224820880797	eksamen_software_autogen/mocs_compilation.cpp	64eef3494a8c395f
+389	561	7295223682313652	CMakeFiles/eksamen_software.dir/eksamen_software_autogen/mocs_compilation.cpp.obj	eb7ba2a652664957
+8	146	7295224820880797	C:/Users/LinaH/Ikt203/untitled/cmake-build-debug/eksamen_software_autogen/timestamp	64eef3494a8c395f
+8	146	7295224820880797	C:/Users/LinaH/Ikt203/untitled/cmake-build-debug/eksamen_software_autogen/mocs_compilation.cpp	64eef3494a8c395f
+395	2419	7295223700936210	CMakeFiles/eksamen_software.dir/main.cpp.obj	64bfec379c0700db
+5	563	7295227709082812	build.ninja	eb3827a1b12f923c

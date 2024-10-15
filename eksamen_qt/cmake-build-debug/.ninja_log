@@ -1,0 +1,19 @@
+# ninja log v5
+1	116	7295249113419354	eksamen_qt_autogen/timestamp	33abb496a6c53fbd
+225	286	7295243945112740	CMakeFiles/eksamen_qt.dir/eksamen_qt_autogen/mocs_compilation.cpp.obj	68f9c835690223a0
+1	116	7295249113419354	eksamen_qt_autogen/mocs_compilation.cpp	33abb496a6c53fbd
+1	116	7295249113419354	C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/eksamen_qt_autogen/mocs_compilation.cpp	33abb496a6c53fbd
+1	116	7295249113419354	C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/eksamen_qt_autogen/timestamp	33abb496a6c53fbd
+2	170	7295251085859139	eksamen_qt_autogen/timestamp	33abb496a6c53fbd
+2	170	7295251085859139	eksamen_qt_autogen/mocs_compilation.cpp	33abb496a6c53fbd
+2	170	7295251085859139	C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/eksamen_qt_autogen/timestamp	33abb496a6c53fbd
+2	170	7295251085859139	C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/eksamen_qt_autogen/mocs_compilation.cpp	33abb496a6c53fbd
+196	317	7295251087375438	CMakeFiles/eksamen_qt.dir/eksamen_qt_autogen/mocs_compilation.cpp.obj	fe774e4625786ee2
+203	3939	7295251123572210	CMakeFiles/eksamen_qt.dir/main.cpp.obj	890e46d6e7187e62
+3946	4282	7295251126802855	eksamen_qt.exe	774f249a62edfe39
+9	188	7295251357755550	eksamen_qt_autogen/timestamp	33abb496a6c53fbd
+9	188	7295251357755550	eksamen_qt_autogen/mocs_compilation.cpp	33abb496a6c53fbd
+9	188	7295251357755550	C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/eksamen_qt_autogen/timestamp	33abb496a6c53fbd
+9	188	7295251357755550	C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/eksamen_qt_autogen/mocs_compilation.cpp	33abb496a6c53fbd
+198	2819	7295251384156140	CMakeFiles/eksamen_qt.dir/main.cpp.obj	890e46d6e7187e62
+2820	3116	7295251386963947	eksamen_qt.exe	774f249a62edfe39

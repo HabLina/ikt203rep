@@ -1,0 +1,3 @@
+C:/Users/LinaH/Ikt203/CarRentalGui/cmake-build-debug/CMakeFiles/CarRentalGui.dir
+C:/Users/LinaH/Ikt203/CarRentalGui/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LinaH/Ikt203/CarRentalGui/cmake-build-debug/CMakeFiles/rebuild_cache.dir

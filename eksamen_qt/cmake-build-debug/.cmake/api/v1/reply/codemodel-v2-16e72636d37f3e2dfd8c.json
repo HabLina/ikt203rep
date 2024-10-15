@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "eksamen_qt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "eksamen_qt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eksamen_qt-Debug-67ddf23907f40391901f.json",
+					"name" : "eksamen_qt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eksamen_qt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eksamen_qt_autogen-Debug-d4d2e130c5297f7a12e5.json",
+					"name" : "eksamen_qt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "eksamen_qt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-eksamen_qt_autogen_timestamp_deps-Debug-2cf2393c1c87c1a163a2.json",
+					"name" : "eksamen_qt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug",
+		"source" : "C:/Users/LinaH/Ikt203/eksamen_qt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

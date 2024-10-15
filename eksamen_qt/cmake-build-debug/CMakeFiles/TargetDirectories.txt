@@ -1,0 +1,5 @@
+C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/CMakeFiles/eksamen_qt.dir
+C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/CMakeFiles/eksamen_qt_autogen_timestamp_deps.dir
+C:/Users/LinaH/Ikt203/eksamen_qt/cmake-build-debug/CMakeFiles/eksamen_qt_autogen.dir
